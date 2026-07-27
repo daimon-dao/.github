@@ -34,6 +34,13 @@ Contracts are deployed and verified on **BSC testnet**. An **external audit is
 in preparation**. There is **no mainnet date**, and there will not be one until
 the audit is complete.
 
+## Whitepaper
+
+**[Whitepaper v0.1 (EN)](https://github.com/daimon-dao/daimon-dao/blob/master/docs/whitepaper/Daimon_Whitepaper_EN_v0.1.pdf)** ·
+[versione italiana](https://github.com/daimon-dao/daimon-dao/blob/master/docs/whitepaper/Daimon_Whitepaper_IT_v0.1.pdf) —
+draft pending the external audit; versioning policy in
+[docs/whitepaper](https://github.com/daimon-dao/daimon-dao/tree/master/docs/whitepaper).
+
 ## Code and contracts
 
 The main repository — contracts, tests, threat model and dApp:
