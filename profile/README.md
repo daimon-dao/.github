@@ -63,6 +63,7 @@ Verified contracts on BSC testnet:
 | Telegram — announcements | https://t.me/Daimon_one |
 | Telegram — community group (EN) | https://t.me/Daimon_Official_Group |
 | Telegram — community group (IT) | https://t.me/Daimon_Official_Italian_Group |
+| X (Twitter) | https://x.com/DaimonDAO |
 | GitHub | https://github.com/daimon-dao |
 
 Additional official channels will be listed here as they go live. Any channel
